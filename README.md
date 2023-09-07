@@ -14,5 +14,5 @@ The goal of this case study is to identify how do annual members and casual ride
 **Guiding Questions**
 
 1. How do annual members and casual riders use Cyclistic bikes differently?
-2. why would casual riders buy Cyclistic annual memberships?
+2. Why would casual riders buy Cyclistic annual memberships?
 3. How can Cyclistic use digital media to influence casual riders to become members?
